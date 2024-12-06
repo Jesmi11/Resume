@@ -31,7 +31,7 @@ By the end of this workshop, you'll have created a resume web site that will loo
 
 ## Outline
 In this workshop, you will: 
-* [Set up your coding environment]  (0-setup.md)
+* [Set up your coding environment](Setup.md)
   
 * [Learn basic HTML to outline your resume](1-create-html.md)
 * [Fill in your resume content](2-add-content.md)
