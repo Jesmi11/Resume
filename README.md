@@ -18,7 +18,7 @@ Using the power of github.dev, a service that allows you to work with files in G
 
 ## Video walk-through
 
-[![workshop walk-through](IMG_20241206_102710.jpg)](https://youtu.be/M2IrPFMFwx8 "workshop walk-through")
+[![workshop walk-through](IMG_20241206_102710.jpg)](https://www.youtube.com/live/M2IrPFMFwx8?si=fcg_RlHqspNQV9dR")
 > 🎥 Click this image to watch Ornella and Burke as they walk you through the workshop
 
 ## Prerequisites
